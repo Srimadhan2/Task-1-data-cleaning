@@ -1,0 +1,8 @@
+firstly the dataset is downloaded from kaggle then after loaded the dataset imported to jupyter notebook.
+1.handled missing values using isnull,dropna values
+2.removed duplicate values
+3.standardized  the values by fillna
+4.converted date times format
+5.Rename column headers (lowercase, no spaces)
+6.checking and fixing datatypes
+7. data is cleaned
